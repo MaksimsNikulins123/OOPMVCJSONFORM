@@ -1,3 +1,6 @@
+
+
+
 function addProduct(){
 
     let inputs = document.querySelectorAll('.input');

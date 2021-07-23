@@ -3,12 +3,12 @@
             <div class="header_title">Product List</div>
             <div class="header_buttons">
                 <div class="header_button">
-                <input type="button" onclick="document.location.href = 'addproduct'"  value="ADD"/>
+                <input type="button" onclick="document.location.href = 'addproduct'" id="add" value="ADD"/>
                 <a href=""></a>
                  
                 </div>
                 <div class="header_button">
-                <input type="button" onclick='deleteChecked()' value="MASS DELETE"/> 
+                <input type="button" onclick='deleteChecked()' id="massdelete" value="MASS DELETE"/> 
                     
                 </div>
             </div>

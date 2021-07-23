@@ -1,3 +1,5 @@
+
+
 const form = document.getElementById('product_form');
 
 const error = document.querySelector('.result');
