@@ -8,7 +8,7 @@
                  
                 </div>
                 <div class="header_button">
-                <input type="button" onclick='deleteChecked()' id="massdelete" value="MASS DELETE"/> 
+                <input type="button" onclick='deleteChecked()' id="delete-product-btn" value="MASS DELETE"/> 
                     
                 </div>
             </div>
