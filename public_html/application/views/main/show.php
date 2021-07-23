@@ -4,7 +4,7 @@
             <div class="header_buttons">
                 <div class="header_button">
                 <input type="button" onclick="document.location.href = 'addproduct'" id="add" value="ADD"/>
-                <a href=""></a>
+                <input type="button" onclick="alert('x')" id="x">
                  
                 </div>
                 <div class="header_button">
