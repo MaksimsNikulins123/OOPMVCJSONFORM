@@ -3,9 +3,9 @@
             <div class="header_title">Product List</div>
             <div class="header_buttons">
                 <div class="header_button">
-                <input type="button" onclick="document.location.href = 'addproduct'" name="ADD" id="ADD" value="ADD"/>
-                <input type="button" onclick="alert('x')" id="x">
-                 
+                <!-- <input type="button" onclick="document.location.href = 'addproduct'" name="ADD" id="ADD" value="ADD"/> -->
+                <!-- <input type="button" onclick="alert('x')" id="x"> -->
+                <button onclick="document.location.href = 'addproduct'" name="ADD" id="ADD">ADD</button>
                 </div>
                 <div class="header_button">
                 <input type="button" onclick='deleteChecked()' id="delete-product-btn" value="MASS DELETE"/> 
